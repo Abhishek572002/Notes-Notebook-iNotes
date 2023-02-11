@@ -19,3 +19,7 @@ Type localhost/project_name on the browser
 1). Add Your key Points Note on this Website.
 2). Delete Your Present key Points Note on this Website.
 3). Update Your Present key Points Note on this Website.
+
+
+![Screenshot_20230211_153040](https://user-images.githubusercontent.com/103774658/218252456-dcf879f9-ead1-4928-a2cc-a306b3dbce5b.png)
+![Screenshot_20230211_153100](https://user-images.githubusercontent.com/103774658/218252462-cb9dbc6a-1e71-4fb2-8fcf-47246e77de84.png)
