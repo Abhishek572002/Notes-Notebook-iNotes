@@ -14,3 +14,8 @@ Just go on [official XAMPP website](https://www.apachefriends.org/download.html)
 Create Project Folder inside the (XAMPP/htdocs) then start the XAMPP Server 
 Type localhost/project_name on the browser
 
+
+###Functionality of  This Website
+1). Add Your key Points Note on this Website.
+2). Delete Your Present key Points Note on this Website.
+3). Update Your Present key Points Note on this Website.
