@@ -23,3 +23,9 @@ Type localhost/project_name on the browser
 
 ![Screenshot_20230211_153040](https://user-images.githubusercontent.com/103774658/218252456-dcf879f9-ead1-4928-a2cc-a306b3dbce5b.png)
 ![Screenshot_20230211_153100](https://user-images.githubusercontent.com/103774658/218252462-cb9dbc6a-1e71-4fb2-8fcf-47246e77de84.png)
+![Screenshot_20230211_154852](https://user-images.githubusercontent.com/103774658/218252770-ba5ff9c3-b5f4-401b-b993-e93bdef94097.png)
+![Screenshot_20230211_154828](https://user-images.githubusercontent.com/103774658/218252773-72266521-b49b-4c85-b078-373eb89cf2d0.png)
+5b.png)
+![Screenshot_20230211_153100](https://user-images.githubusercontent.com/103774658/218252462-cb9dbc6a-1e71-4fb2-8fcf-47246e77de84.png)
+
+
